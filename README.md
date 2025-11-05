@@ -33,7 +33,7 @@ Each component—Weather, Clock, Now Playing, Recycle Bin, and Settings—has be
 
 ### 🌤️ **Desktop Layout Example**
 
-![Mond Enhanced Suite Preview](https://github.com/danielcrumpler/Mond/blob/main/docs/preview_desktop.PNG?raw=true)
+![Mond Enhanced Suite Preview](https://github.com/danielcrumpler/Mond/blob/main/docs/preview_desktop.png?raw=true)
 
 ---
 
