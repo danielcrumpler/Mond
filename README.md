@@ -17,23 +17,23 @@ Each component—Weather, Clock, Now Playing, Recycle Bin, and Settings—has be
 
 ### 🕒 **Clock & Date**
 
-![Clock Module](https://raw.githubusercontent.com/danielcrumpler/mond-enhanced-suite/main/docs/clock_preview.png)
+![Clock Module](https://github.com/danielcrumpler/Mond/blob/main/docs/clock_preview.PNG?raw=true)
 
 ### 🌦️ **Weather Module**
 
-![Weather Module](https://raw.githubusercontent.com/danielcrumpler/mond-enhanced-suite/main/docs/weather_preview.png)
+![Weather Module](https://github.com/danielcrumpler/Mond/blob/main/docs/weather_preview.PNG?raw=true)
 
 ### 🎵 **Now Playing**
 
-![Now Playing](https://raw.githubusercontent.com/danielcrumpler/mond-enhanced-suite/main/docs/nowplaying_preview.png)
+![Now Playing](https://github.com/danielcrumpler/Mond/blob/main/docs/nowplaying_preview.PNG?raw=true)
 
 ### 🗑️ **Recycle Bin**
 
-![Recycle Bin](https://raw.githubusercontent.com/danielcrumpler/mond-enhanced-suite/main/docs/recycle_preview.png)
+![Recycle Bin](https://github.com/danielcrumpler/Mond/blob/main/docs/recycle_preview.PNG?raw=true)
 
 ### 🌤️ **Desktop Layout Example**
 
-![Mond Enhanced Suite Preview](https://raw.githubusercontent.com/danielcrumpler/mond-enhanced-suite/main/docs/preview_desktop.png)
+![Mond Enhanced Suite Preview](https://github.com/danielcrumpler/Mond/blob/main/docs/preview_desktop.PNG?raw=true)
 
 ---
 
