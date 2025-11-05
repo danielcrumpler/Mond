@@ -13,6 +13,30 @@ Each component—Weather, Clock, Now Playing, Recycle Bin, and Settings—has be
 
 ---
 
+## 🖼️ Preview Gallery
+
+### 🕒 **Clock & Date**
+
+![Clock Module](https://raw.githubusercontent.com/danielcrumpler/mond-enhanced-suite/main/docs/clock_preview.png)
+
+### 🌦️ **Weather Module**
+
+![Weather Module](https://raw.githubusercontent.com/danielcrumpler/mond-enhanced-suite/main/docs/weather_preview.png)
+
+### 🎵 **Now Playing**
+
+![Now Playing](https://raw.githubusercontent.com/danielcrumpler/mond-enhanced-suite/main/docs/nowplaying_preview.png)
+
+### 🗑️ **Recycle Bin**
+
+![Recycle Bin](https://raw.githubusercontent.com/danielcrumpler/mond-enhanced-suite/main/docs/recycle_preview.png)
+
+### 🌤️ **Desktop Layout Example**
+
+![Mond Enhanced Suite Preview](https://raw.githubusercontent.com/danielcrumpler/mond-enhanced-suite/main/docs/preview_desktop.png)
+
+---
+
 ## ✨ Components
 
 ### 🕒 **Clock & Date**
@@ -73,7 +97,7 @@ An integrated configuration interface for the entire suite.
 
 ## ⚙️ Requirements
 
-* [Rainmeter 4.5+](https://www.rainmeter.net/)
+* [Rainmeter 4.5 +](https://www.rainmeter.net/)
 * Internet connection (for weather data)
 * Plugins:
 
