@@ -22,6 +22,7 @@ A clean digital clock and calendar module.
 * Switch between **12-hour** and **24-hour** modes.
 * Styled using *Quicksand* and *Anurati* fonts.
 * Auto-scaling with the mouse wheel.
+* 💡 **Tip:** *Double-click the clock to open or close the Settings panel.*
 
 ---
 
@@ -33,6 +34,7 @@ Displays live weather data based on your detected location.
 * Weather data fetched from **[Open-Meteo](https://open-meteo.com)**.
 * Includes temperature, wind, and condition icons.
 * Dynamic icon routing handled by `iconrouter.lua`.
+* Supports unit toggles for **°F / °C** and **mph / kph**.
 
 ---
 
@@ -77,7 +79,7 @@ An integrated configuration interface for the entire suite.
 
   * [WebNowPlaying.dll](https://github.com/tjhrulz/WebNowPlaying-Rainmeter)
   * [RecycleManager.dll](https://forum.rainmeter.net/viewtopic.php?t=11546)
-  * [RainRGB4](https://forum.rainmeter.net/viewtopic.php?t=19634) (optional for color picker)
+  * [RainRGB4](https://forum.rainmeter.net/viewtopic.php?t=19634) *(optional for color picker)*
 
 ---
 
@@ -127,4 +129,4 @@ Mond/
 ## ❤️ Notes
 
 This suite is designed for clarity, performance, and customization.
-Scroll to resize, double-click to open settings, and enjoy a unified Mond experience.
+Scroll to resize, **double-click the clock to open or close Settings**, and enjoy a unified Mond experience.

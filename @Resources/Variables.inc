@@ -2,6 +2,7 @@
 
 Language=English
 TempSymbol=F
+WindMeasurement=mph
 MeasureName2=MeasureTempFahrenheit
 ScrollMouseIncrement=0
 Format=I
